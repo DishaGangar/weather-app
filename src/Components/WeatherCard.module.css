@@ -1,0 +1,14 @@
+
+  .iconDesTemp{
+    display: flex;
+  }
+  .iconDes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 7px;
+  }
+  .icon{
+    margin-bottom: -22px;
+    margin-top: -19px;
+  }
